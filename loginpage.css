@@ -1,0 +1,125 @@
+div{
+  margin-top:-25px;
+  height:50px;
+}
+body{
+  border:1px;
+  text-align: center;
+  background-image: url(woodbr.jpg);
+   background-size: cover;
+}
+p{
+  font-size: 20px;
+  color: #400082;
+  font-weight: bold;
+ font-family:cursive;
+}
+ .header
+{
+   left:80px;
+   border-radius: 100px;
+    background-color:#A3A847;
+  width:1200px;
+   color:blue;
+   position:fixed;
+}
+h2{
+  color:#F30CD4;
+  font-size: 30px;
+  font-family: fantasy;
+
+}
+.mm{
+  width:300px;
+}
+.change
+{
+  position: relative;
+  top:10px;
+  padding-top: -10px;
+  border-color:#F30CD4;
+  width:1000px;
+}
+hr{
+  border-color:purple;
+  border-style:dotted none none;
+  border-width:10px;
+  width:80px;
+}
+.exp
+{
+  height:130px;
+  width:300px;
+}
+.mani
+{
+  height:200px;
+  width:200px;
+}
+.study{
+  height:100px;
+width:300px;
+}
+.skil
+{
+  width:300px;
+  height:150px;
+}
+.pers{
+  height:150px;
+  width:300px;
+}
+.under
+{
+border-color: #F30CD4;
+  width:1250px;
+}
+.mar{
+  color:#1A0841;
+  background-color: #F2F2B0;
+  height:25px;
+}
+.tablechng{
+  background-image: url(image1.jpg);
+  width:1350;
+  margin: -7px;
+background-size: cover;
+}
+.btn{
+  margin-top: -5px;
+  position: relative;
+  left:500px;
+  background-color:#F8B500;
+  border-radius: 50px;
+      font-size: 20px;
+  width:300px;
+  height:50px;
+}
+table{
+  background-color: #51E3D4;
+  border-radius: 10px;
+}
+.oo{
+  background-color:#F8B500;
+  border-radius: 50px;
+  width:200px;
+  height:50px;
+  font-family: fantasy;
+  font-size: 20px;
+  position: relative;
+  left:550px;
+}
+.rr{
+  background-color:#BCA3CA;
+  border-radius: 50px;
+}
+button{
+float:left;
+ margin:10px;
+ padding:3px;
+ border-radius: 50px;
+ color: purple;
+ border-color: red;
+ border-width: thick;
+ background-color:#51E3D4;
+}

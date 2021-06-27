@@ -1,0 +1,25 @@
+body{
+  margin:10px;
+  background-color:#B3E283;
+}
+h1{
+  position:fixed;
+   width:1000px;
+  right:150px;
+  margin:10px;
+  background-color:#FFC107;
+  border-radius:100px;
+}
+img{
+  position:relative;
+  top:200px;
+  background-size: cover;
+}
+button{
+  margin:10px;
+position:relative;
+float:left;
+background-color: red;
+border-radius: 50px;
+width:100px;
+}

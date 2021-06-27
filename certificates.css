@@ -1,0 +1,14 @@
+
+h1{
+background-color:green;
+border-radius:100px;
+}
+button{
+  background-color:gold;
+float:left;
+border-radius:30px;
+margin:10px;
+}
+img{
+  margin:10px;
+}

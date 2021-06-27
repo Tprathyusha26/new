@@ -1,0 +1,36 @@
+body{
+  background-image:url(homepg.jpg);
+  background-size:cover;
+}
+div{
+  text-align:center;
+  color:purple;
+}
+button{
+  position:relative;
+  top:100px;
+  border-radius:500px;
+  font-size:30px;
+  font-family: fantasy;
+}
+img{
+width:80px;
+height:80px;
+}
+p{
+  font-size:20px;
+  position:relative;
+  top:100px;
+}
+.dd{
+  padding: 2px;
+  position:relative;
+  right:650px;
+  bottom:300px;
+}
+.ww{
+  position: absolute;
+  width:200px;
+    border-radius: 100px;
+
+}

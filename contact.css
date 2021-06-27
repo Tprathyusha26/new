@@ -1,0 +1,32 @@
+
+    h1{
+      color:#BE0000;
+      background-color: #FFEDA3;
+       width:400px;
+       position: absolute;
+       right:500px;
+      border-radius: 100px;
+    }
+    table{
+      margin-right: 100px;
+      width:1000px;
+      position: relative;
+      top:100px;
+    }
+    h2{
+      color:#FF449F;
+      background-color: #E798AE;
+      padding:10px;
+      border-radius: 300px;
+      text-align: center;
+    }
+    button{
+      margin: 20px;
+      background-color: red;
+      position: relative;
+      float:left;
+      border-radius: 100px;
+    }
+    body{
+      background-image: url(1.jpg);
+    }
